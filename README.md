@@ -9,7 +9,7 @@ Pagina cursului: <https://gdt050579.github.io/agenticai_course_fii/>
 | Laborator | Tema | Folder | Stare |
 |---|---|---|---|
 | Lab 2 | Model Literacy, Prompt Engineering, Structured Outputs & Tool Calling | [`lab02/`](lab02/) | ✅ complet |
-| Lab 3 | *în lucru* | `lab03/` | ⏳ |
+| Lab 3 | The ReAct Loop, Human-in-the-Loop (HITL) & Orchestrator-Workers | [`lab03/`](lab03/) | ✅ complet |
 
 Fiecare folder are propriul `README.md`, cu enunțul pe scurt, fișierele și rezultatele.
 
@@ -47,5 +47,5 @@ LabAgentic/
 ├── requirements.txt   ← dependențe comune
 ├── .gitignore         ← exclude .env, .venv, cache-uri
 ├── lab02/             ← Laboratorul 2
-└── lab03/             ← Laboratorul 3 (în curând)
+└── lab03/             ← Laboratorul 3
 ```
