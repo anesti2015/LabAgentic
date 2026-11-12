@@ -3,3 +3,6 @@
 __pycache__/
 .pytest_cache/
 lab3_data/
+logs/
+*.zip
+_starter_original/

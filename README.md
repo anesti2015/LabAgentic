@@ -8,6 +8,7 @@ Pagina cursului: <https://gdt050579.github.io/agenticai_course_fii/>
 
 | Laborator | Tema | Folder | Stare |
 |---|---|---|---|
+| Lab 1 | Local Inference & the OpenAI Protocol (Ollama, chat loop with history) | [`lab01/`](lab01/) | ✅ complet |
 | Lab 2 | Model Literacy, Prompt Engineering, Structured Outputs & Tool Calling | [`lab02/`](lab02/) | ✅ complet |
 | Lab 3 | The ReAct Loop, Human-in-the-Loop (HITL) & Orchestrator-Workers | [`lab03/`](lab03/) | ✅ complet |
 
